@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Michael/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/ThirdPerson/Blueprints/PlayerProjectile.uasset"
+				"C:/Users/Michael/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/ThirdPerson/Blueprints/PlayerProjectile.uasset",
+				"C:/Users/Michael/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset",
+				"C:/Users/Michael/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/ThirdPerson/Blueprints/Drop_Kick.uasset",
+				"C:/Users/Michael/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/ThirdPerson/Blueprints/Beta_HighLimbsGeoSG3.uasset",
+				"C:/Users/Michael/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/ThirdPerson/Blueprints/Beta_Joints_MAT1.uasset",
+				"C:/Users/Michael/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/ThirdPerson/Blueprints/Drop_Kick_PhysicsAsset.uasset",
+				"C:/Users/Michael/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/ThirdPerson/Blueprints/Drop_Kick_Anim_Take_001.uasset",
+				"C:/Users/Michael/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/ThirdPerson/Blueprints/Drop_Kick_Anim_mixamo_com.uasset"
 			]
 		}
 	]
