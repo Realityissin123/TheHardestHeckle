@@ -9003,3 +9003,140 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.27-12.15.34:522][461]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Chase.Chase
 [2024.01.27-12.15.34:522][461]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Enemy.Enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_C_UAID_5C60BA38F94C8CD301_1212312618
 [2024.01.27-12.16.11:158][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.01.27-12.16.57:941][215]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.01.27-12.17.13:328][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.01.27-12.18.43:798][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.01.27-12.20.06:262][ 55]LogViewport: Scene viewport resized to 738x462, mode Windowed.
+[2024.01.27-12.20.10:350][339]BlueprintLog: New page: Compile Enemy
+[2024.01.27-12.20.10:488][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.01.27-12.20.17:207][826]BlueprintLog: New page: Compile Enemy
+[2024.01.27-12.20.17:311][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.01.27-12.20.20:326][ 53]Cmd: EDIT CUT
+[2024.01.27-12.20.20:332][ 53]LogEditorActor: Deleted Actor: Enemy_C
+[2024.01.27-12.20.20:356][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.01.27-12.20.20:362][ 53]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2024.01.27-12.20.22:045][239]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Enemy.Enemy_C
+[2024.01.27-12.20.22:045][239]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Enemy.Enemy_C
+[2024.01.27-12.20.22:049][239]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_C_1
+[2024.01.27-12.20.22:050][239]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_C_1
+[2024.01.27-12.20.22:511][292]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Enemy.Enemy_C
+[2024.01.27-12.20.22:511][292]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/Enemy.Enemy_C
+[2024.01.27-12.20.22:517][292]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_C_UAID_5C60BA38F94C8ED301_1842370973
+[2024.01.27-12.20.22:519][292]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/Enemy.Enemy as actor: Enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_C_UAID_5C60BA38F94C8ED301_1842370973
+[2024.01.27-12.20.24:129][447]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.27-12.20.24:136][447]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.27-12.20.24:137][447]LogWorldPartition: Display: GenerateStreaming started...
+[2024.01.27-12.20.24:137][447]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.01.27-12.20.24:138][447]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 421 us)
+[2024.01.27-12.20.24:138][447]LogWorldPartition: Display: GenerateStreaming took 151 us (total: 8 ms)
+[2024.01.27-12.20.24:139][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.27-12.20.24:139][447]PIE: New page: PIE session: ThirdPersonMap (27 Jan 2024, 12:20:24)
+[2024.01.27-12.20.24:181][447]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.27-12.20.24:187][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006169s)
+[2024.01.27-12.20.24:187][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006250s)
+[2024.01.27-12.20.24:187][447]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.27-12.20.24:188][447]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.27-12.20.24:188][447]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.27-12.20.24:188][447]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.27-12.20.24:188][447]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.27-12.20.24:188][447]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.01.27-12.20.24:189][447]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.01.27-12.20.24:189][447]LogWorldPartition: Display: WorldPartition initialize took 745 us (total: 249 ms)
+[2024.01.27-12.20.24:189][447]LogPlayLevel: PIE: World Init took: (0.001712s)
+[2024.01.27-12.20.24:210][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.01.27-12.20.24:214][447]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2024.01.27-12.20.24:214][447]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.27-12.20.24:214][447]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.27-12.20.24:214][447]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.27-12.20.24:214][447]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.27-12.20.24:214][447]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.27-12.20.24:214][447]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.01.27-12.20.24:214][447]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.27-12.20.24:214][447]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.27-12.20.24:214][447]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.27-12.20.24:214][447]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.27-12.20.24:214][447]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.27-12.20.24:217][447]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.27-12.20.24:234][447]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.01.27-12.20.24:235][447]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.27-12.20.24:235][447]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.27-12.20.24:235][447]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.27-12.20.24:235][447]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=73
+[2024.01.27-12.20.24:235][447]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=73
+[2024.01.27-12.20.24:237][447]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=73
+[2024.01.27-12.20.24:237][447]LogInit: FAudioDevice initialized with ID 73.
+[2024.01.27-12.20.24:237][447]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=73
+[2024.01.27-12.20.24:237][447]LogAudio: Display: Audio Device (ID: 73) registered with world 'ThirdPersonMap'.
+[2024.01.27-12.20.24:237][447]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 73
+[2024.01.27-12.20.24:239][447]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.27-12.20.24:242][447]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.01.27-12.20.24
+[2024.01.27-12.20.24:243][447]LogWorld: Bringing up level for play took: 0.003342
+[2024.01.27-12.20.24:245][447]LogOnline: OSS: Created online subsystem instance for: :Context_104
+[2024.01.27-12.20.24:248][447]PIE: Server logged in
+[2024.01.27-12.20.24:248][447]PIE: Play in editor total start time 0.112 seconds.
+[2024.01.27-12.20.24:265][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-12.20.24:265][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-12.20.24:266][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-12.20.24:266][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-12.20.24:266][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-12.20.24:266][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-12.20.24:267][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-12.20.24:267][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-12.20.24:273][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-12.20.24:273][447]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-12.20.24:280][448]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-12.20.24:281][448]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-12.20.24:281][448]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-12.20.24:281][448]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-12.20.24:281][448]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-12.20.24:282][448]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-12.20.24:282][448]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-12.20.24:282][448]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-12.20.24:288][448]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-12.20.24:289][448]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-12.20.25:133][544]LogBlueprintUserMessages: [Attack_C_0] attacked
+[2024.01.27-12.20.26:133][664]LogBlueprintUserMessages: [Attack_C_0] attacked
+[2024.01.27-12.20.27:133][784]LogBlueprintUserMessages: [Attack_C_0] attacked
+[2024.01.27-12.20.28:133][904]LogBlueprintUserMessages: [Attack_C_0] attacked
+[2024.01.27-12.20.29:133][ 24]LogBlueprintUserMessages: [Attack_C_0] attacked
+[2024.01.27-12.20.30:133][144]LogBlueprintUserMessages: [Attack_C_0] attacked
+[2024.01.27-12.20.31:133][264]LogBlueprintUserMessages: [Attack_C_0] attacked
+[2024.01.27-12.20.32:133][384]LogBlueprintUserMessages: [Attack_C_0] attacked
+[2024.01.27-12.20.32:261][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-12.20.32:261][395]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.01.27-12.20.32:262][395]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.20.32:262][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.20.32:262][395]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.01.27-12.20.32:266][395]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.27-12.20.32:270][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.20.32:291][395]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.27-12.20.32:292][395]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 73
+[2024.01.27-12.20.32:292][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73
+[2024.01.27-12.20.32:293][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73
+[2024.01.27-12.20.32:297][395]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.27-12.20.32:300][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.01.27-12.20.32:334][395]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-12.20.32:363][396]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2024.01.27-12.20.32:383][396]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.01.27-12.20.37:150][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.01.27-12.20.37:155][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.27-12.20.37:231][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.01.27-12.20.37:251][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.01.27-12.20.37:271][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.01.27-12.20.37:277][729]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/9J/KZPTYJ8GCV7WWNST7OARDG
+[2024.01.27-12.20.37:277][729]LogSavePackage: Moving '../../../../../../Users/b1189515/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Saved/KZPTYJ8GCV7WWNST7OARDG1BDE2C884FD2BE9E8F4B03876D5596CE.tmp' to '../../../../../../Users/b1189515/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/9J/KZPTYJ8GCV7WWNST7OARDG.uasset'
+[2024.01.27-12.20.37:294][729]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Enemy
+[2024.01.27-12.20.37:295][729]LogSavePackage: Moving '../../../../../../Users/b1189515/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Saved/Enemy7145E5774CAF65843EB31089058A1108.tmp' to '../../../../../../Users/b1189515/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/ThirdPerson/Blueprints/Enemy.uasset'
+[2024.01.27-12.20.37:305][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 2.74 sec)
+[2024.01.27-12.20.37:312][729]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.27-12.20.37:312][729]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/Enemy.Enemy
+[2024.01.27-12.20.37:312][729]LogContentValidation: Display: Validating /Game/ThirdPerson/Blueprints/Enemy.Enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Enemy_C_UAID_5C60BA38F94C8ED301_1842370973
+[2024.01.27-12.20.39:163][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.01.27-12.20.40:456][947]LogSlate: Window 'Enemy' being destroyed
+[2024.01.27-12.20.40:459][947]LogSlate: Window 'Enemy' being destroyed
+[2024.01.27-12.20.40:464][947]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.20.40:464][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.20.40:513][947]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.20.40:513][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.27-12.20.40:573][947]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.01.27-12.20.40:573][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
