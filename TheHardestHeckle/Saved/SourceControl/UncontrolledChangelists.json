@@ -5,8 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/clayt/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/LevelDesign/ComedyClub.umap",
-				"C:/Users/clayt/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/LevelDesign/LevelAssetGym.umap"
+				"C:/Users/clayt/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/LevelDesign/LevelAssetGym.umap",
+				"C:/Users/clayt/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/LevelDesign/LVL_LevelAssetGym.umap",
+				"C:/Users/clayt/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/LevelDesign/Materials/T_Grid.uasset",
+				"C:/Users/clayt/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/LevelDesign/T_Grid.uasset",
+				"C:/Users/clayt/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/LevelDesign/Materials/MAT_Grid.uasset",
+				"C:/Users/clayt/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/LevelDesign/SM_Door2.uasset",
+				"C:/Users/clayt/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/LevelDesign/SM_Wall4.uasset",
+				"C:/Users/clayt/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/LevelDesign/BlockoutMeshes/SM_Wall4.uasset",
+				"C:/Users/clayt/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/LevelDesign/BlockoutMeshes/SM_Wall1.uasset",
+				"C:/Users/clayt/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/LevelDesign/BlockoutMeshes/Architecture/SM_Wall1.uasset",
+				"C:/Users/clayt/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/LevelDesign/BlockoutMeshes/Architecture/SM_Wall4.uasset",
+				"C:/Users/clayt/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/LevelDesign/BlockoutMeshes/Architecture/SM_Wall2.uasset",
+				"C:/Users/clayt/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/LevelDesign/BlockoutMeshes/Architecture/SM_Wall3.uasset",
+				"C:/Users/clayt/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/LevelDesign/ComedyClub.umap"
 			]
 		}
 	]
