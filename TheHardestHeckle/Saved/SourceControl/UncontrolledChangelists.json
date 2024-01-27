@@ -16,6 +16,11 @@
 				"C:/Users/b1189515/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/VM/QH7123JQ6L17G21SFRJHWK.uasset",
 				"C:/Users/b1189515/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/T6/MUWOKMBA8PJOWA34BHPJ7A.uasset",
 				"C:/Users/b1189515/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PC/H9HT6LPFP762E3HPU5LQAN.uasset",
+				"C:/Users/b1189515/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/ThirdPerson/Blueprints/EnemyBehaviour.uasset",
+				"C:/Users/b1189515/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/ThirdPerson/Blueprints/EnemyBehaviourBlackboard.uasset",
+				"C:/Users/b1189515/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/ThirdPerson/Blueprints/Chase.uasset",
+				"C:/Users/b1189515/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/ThirdPerson/Blueprints/Attack.uasset",
+				"C:/Users/b1189515/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/ThirdPerson/Blueprints/EnemyController.uasset",
 				"C:/Users/clayt/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/LevelDesign/ComedyClub.umap",
 				"C:/Users/clayt/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/LevelDesign/LevelAssetGym.umap"
 			]
