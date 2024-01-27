@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/b1189515/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/b1189515/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/ThirdPerson/Blueprints/ProjectileSpawner.uasset",
 				"C:/Users/clayt/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/LevelDesign/ComedyClub.umap",
 				"C:/Users/clayt/Documents/GitHub/TheHardestHeckle/TheHardestHeckle/Content/LevelDesign/LevelAssetGym.umap"
 			]
